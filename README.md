@@ -1,4 +1,4 @@
-# volumeshader_bm
+# volumeshader-bm
 
 Trigonometric and inverse trigonometric functions test.
 
